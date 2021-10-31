@@ -1,0 +1,7 @@
+.hidden {
+  display: none;
+}
+body {
+  height: 100vh;
+  text-align: center;
+}
